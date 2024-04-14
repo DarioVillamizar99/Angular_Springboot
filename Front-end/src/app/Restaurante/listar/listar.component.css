@@ -1,0 +1,9 @@
+.btn{
+    display: inline-block;
+}
+
+.btn-warning{
+    margin-right: 8px;
+    background-color: rgb(17, 201, 247);
+    border: 1px solid rgb(17, 201, 247);
+}
